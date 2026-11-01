@@ -1,10 +1,6 @@
-<img src="owl.svg" width="56" align="left" alt="" />
-
-### Raul Barquilla
+<img src="banner.svg" width="100%" alt="Raul Barquilla, AI and full-stack engineer. 5+ production systems shipped." />
 
 AI and full-stack engineer in Albay, Philippines. I build agentic systems on Claude and GPT, wire them into CRMs and internal tools, and run them on infrastructure I secure myself.
-
-<br clear="left" />
 
 ```console
 $ whoami --verbose
